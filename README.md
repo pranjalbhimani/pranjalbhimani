@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Pranjal Bhimani
+<b><h2>Opportunities don't happen, you create them.</h2></b>
+- 👋 <b>Hi, I’m Pranjal Bhimani</b>
 - 👀 I’m interested in Web Development
 - 📫 How to reach me pranjalbhimani77@gmail.com
 
